@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    color: aqua;
+    background-color: grey;
+    padding: 10px;
+    border: 3px solid red;
+}
+main {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    flex: 2;
+    overflow-y: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
+th {
+    background-color: grey;
+    padding: 10px;
+}
+td {
+    background-color: bisque;
+    padding: 5px;
+
+}
+table {
+    border: solid 2px black;
+}
