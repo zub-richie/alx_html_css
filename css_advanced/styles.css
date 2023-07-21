@@ -313,11 +313,18 @@ section.quote-section {
     height: 392px;
     padding: 125px;
     background: #C271FF;
+    display: flex;
+    justify-content: center;
 }
 .quote-container {
     display: flex;
-    align-items: center;
+    max-width: 735px;
     gap: 50px;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 0;
+    padding: 0;
+    justify-content: space-evenly;
 }
 .quote-holder {
     color: white;
@@ -366,13 +373,14 @@ blockquote {
 }
 
 .play-button {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 80px;
-  height: 80px;
-  background-image: url(Images/play.png);
+    /* position: absolute; */
+    top: 50%;
+    left: 50%;
+    margin-top: -64px;
+    /* transform: translate(-50%, -50%); */
+    width: 80px;
+    height: 80px;
+    background-image: url(Images/play.png);
 }
 p.time {
     color: #C271FF;
