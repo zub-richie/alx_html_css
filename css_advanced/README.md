@@ -5,24 +5,16 @@
 
 - 🔭 I’m currently working on my **ALX intro to SE course**
 
-- 🌱 I’m currently learning **CSS Basic**
+- 🌱 I’m currently learning **Implement a web design from scratch**
 <h2 align="left">Project Objectives</h2>
-<p align="left">At the end of this project, I'm expected to be able to explain to anyone, without the help of Google:</p>
+<p align="left">In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
+<br>
+You won’t have a lot of instruction, you are free to implement it the way that you want - the objective is simple: Have a fully functional web page that looks the same as the designer file.</p>
 
-- What is CSS
-- How to add style to an element
-- What is a class
-- What is a selector
-- How to compute CSS Specificity Value
-- What are Box properties in CSS
-- How does the browser load a webpage
+<h2 align="left">Project Requirements</h2>
 
-<h2 align="left">Requirements</h2>
-
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project is mandatory
-- You are not allowed to install, import or use external libraries. This website must be build with only HTML/CSS/JavaScript. No NodeJS, React, VueJS, Bootstrap, etc.
-- Your code should be W3C compliant and validate with W3C-Validator
+- you are not allowed to import external CSS framework (like Bootstrap)
+- you are not to use Javascript
 
 <h3 align="left">Let's connect:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/zubair-richard" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="html5" width="50" height="50"/> </a> </p>
